@@ -88,5 +88,4 @@ https://www.linkedin.com/in/lucio-fabio-barbosa
 GitHub:
 https://github.com/lucio-barbosa/Lucio-Fabio-Engenheiro-de-Dados
 
-Email:
-engenheirodedadosluciofabio@gmail.com
+Email: engenheirodedadosluciofabio@gmail.com
