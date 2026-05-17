@@ -82,14 +82,11 @@ Estudante do Curso Full Stack de Dados e Analytics - Engenharia de Dados - Pod A
 
 ## 📫 Contato
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucio-fabio-barbosa" target="_blank">
-    LinkedIn
-  </a>
-  •
-  <a href="https://github.com/lucio-barbosa/Lucio-Fabio-Engenheiro-de-Dados" target="_blank">
-    GitHub
-  </a>
-</p>
+LinkedIn:
+https://www.linkedin.com/in/lucio-fabio-barbosa
 
-📧 engenheirodedadosluciofabio@gmail.com
+GitHub:
+https://github.com/lucio-barbosa/Lucio-Fabio-Engenheiro-de-Dados
+
+Email:
+engenheirodedadosluciofabio@gmail.com
