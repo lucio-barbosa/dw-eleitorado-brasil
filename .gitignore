@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Ambiente
+.env
+
+# Dados gerados
+data/raw/*
+data/processed/*
+data/exports/*
+
+# Permitir manter as pastas no GitHub
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/exports/.gitkeep
+
+# Airflow
+logs/
+airflow.db
+standalone_admin_password.txt
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
