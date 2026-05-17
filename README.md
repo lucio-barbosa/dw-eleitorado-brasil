@@ -2,8 +2,6 @@
 
 ## Sobre o Projeto
 
-## Sobre o Projeto
-
 Este projeto tem como objetivo construir um pipeline de Engenharia de Dados para análise do eleitorado brasileiro, utilizando dados públicos disponibilizados pelo Tribunal Superior Eleitoral.
 
 A proposta é criar um Data Warehouse que permita analisar o perfil do eleitorado por município, estado, faixa etária, gênero, grau de instrução e indicadores de comparecimento e abstenção eleitoral.
