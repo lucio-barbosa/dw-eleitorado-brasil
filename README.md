@@ -54,22 +54,6 @@ Um dos focos principais será identificar quais municípios brasileiros apresent
 - Comparativo de abstenção entre jovens, adultos e idosos
 - Evolução da abstenção eleitoral por faixa etária
 
-## Estrutura do Projeto
-
-```
-dw-eleitorado-brasil/
-│
-├── data/
-├── dags/
-├── scripts/
-├── sql/
-├── docs/
-├── dashboards/
-├── README.md
-├── .gitignore
-├── .env.example
-└── requirements.txt
-
 ## Status do Projeto
 
 Projeto em fase inicial de estruturação.
@@ -90,3 +74,21 @@ https://github.com/lucio-barbosa/Lucio-Fabio-Engenheiro-de-Dados
 
 Email:
 engenheirodedadosluciofabio@gmail.com
+
+...
+
+## Estrutura do Projeto
+
+```text
+dw-eleitorado-brasil/
+│
+├── data/
+├── dags/
+├── scripts/
+├── sql/
+├── docs/
+├── dashboards/
+├── README.md
+├── .gitignore
+├── .env.example
+└── requirements.txt
